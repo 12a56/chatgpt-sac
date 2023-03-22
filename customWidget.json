@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "custom-widget",
-      "url": "https://dmeraj.github.io/integrating-chatGPT3-in-SAC/customWidget.json",
+      "url": "https://github.com/12a56/chatgpt-sac/blob/main/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
